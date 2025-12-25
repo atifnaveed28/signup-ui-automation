@@ -2,7 +2,7 @@ name: Signup UI Tests
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   workflow_dispatch:
 
 jobs:
